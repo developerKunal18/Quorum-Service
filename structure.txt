@@ -1,0 +1,7 @@
+quorum-service/
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── app.py
+└── tests/
+    └── test_quorum.py
